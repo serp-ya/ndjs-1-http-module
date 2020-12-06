@@ -1,0 +1,19 @@
+{
+  "name": "task-5-http-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "node init.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "weather": "./src/index.js"
+  }
+}
