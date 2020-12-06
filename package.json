@@ -15,5 +15,8 @@
   "preferGlobal": true,
   "bin": {
     "weather": "./src/index.js"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
   }
 }
